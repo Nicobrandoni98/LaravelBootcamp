@@ -21,3 +21,9 @@ yarn-error.log
 /.nova
 /.vscode
 /.zed
+# Ignorar directorios del sistema
+**/$Recycle.Bin/
+**/Program Files/
+**/xampp/
+**/cursoLaravel/
+**/vinoteca/
